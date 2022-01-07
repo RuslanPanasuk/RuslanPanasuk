@@ -15,7 +15,7 @@ I don't have much experience in programming but I have ability to learn fast and
 
 ## My skills
 
-* https://www.codewars.com/users/RuslanPanasuk/badges/large
+* ![CodeWars](https://www.codewars.com/users/RuslanPanasuk/badges/large)
 * HTML5
 * CSS3
 * JavaScript
